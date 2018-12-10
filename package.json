@@ -1,10 +1,14 @@
 {
   "name": "dmy-ajax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ajax函数库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daimingyu/ajax.js.git"
   },
   "author": "代明玉",
   "license": "ISC"
